@@ -1,0 +1,35 @@
+{
+  "name": "generator-mkappgenerator",
+  "version": "1.0.0",
+  "description": "Web Application Generator - Spring-Boot and ReactJS Typescript Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "empty"
+  },
+  "keywords": [
+    "mk",
+    "application",
+    "generator",
+    "generator-mkappgenerator",
+    "yeoman-generator",
+    "Java",
+    "Spring",
+    "SpringBoot",
+    "Webapp",
+    "webpack",
+    "Bootstrap"
+  ],
+  "files": [
+    "app"
+  ],
+  "author": "Mohankumar Rathinam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "yeoman-generator": "^4.5.0"
+  }
+}
